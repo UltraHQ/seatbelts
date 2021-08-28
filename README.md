@@ -1,5 +1,6 @@
 ## This addon is unfinished, uncleaned and bad coded. I did this addon back then to teach myself more LUA this way.<br/> I planned releasing it, but never did it because I quit gmod and have no interest in working on it anymore.<br/>This means, don't use it on your server - it won't end up nice.
 
+--------------------------------------------------
 
 # Seatbelts - An addon that adds Seatbelts to cars.
 You're maybe asking yourself, why do I need seatbelts in Garry's Mod?
@@ -29,6 +30,14 @@ You put your seatbelt on and you won't be able to:
 1. Exit the vehicle and switch seats (vcmod).
 2. The chime turns on if you have reached more than 25 mph (if left default) and you still don't have your seatbelt on.
 3. Other players will hear the strap in sound from you.
+
+## Installation
+The needed materials should be downloaded automatically for the players.
+You can find the config in: lua/seatbelt/config.lua
+
+To install:
+Download and move the "seatbelt" folder into your addons folder.
+
 
 ## Config
 ```Seatbelt = {}
