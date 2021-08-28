@@ -1,4 +1,4 @@
-## This addon is unfinished, uncleaned and bad coded. I did this addon back then to teach myself more LUA this way. I planned releasing it, but never did it because I quit gmod and have no interest in working on it anymore.
+## This addon is unfinished, uncleaned and bad coded. I did this addon back then to teach myself more LUA this way.<br/> I planned releasing it, but never did it because I quit gmod and have no interest in working on it anymore.<br/>This means, don't use it on your server - it won't end up nice.
 
 
 # Seatbelts - An addon that adds Seatbelts to cars.
