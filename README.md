@@ -1,11 +1,12 @@
-## This addon is unfinished, uncleaned and bad coded. I did this addon back then to teach myself more LUA this way.<br/> I planned releasing it, but never did it because I quit gmod and have no interest in working on it anymore.<br/>This means, don't use it on your server - it won't end up nice.
-
---------------------------------------------------
+## This addon is unfinished, broken and bad coded. I did this addon back then to teach myself more LUA this way.<br/> I planned releasing it, but never did it because I quit gmod and have no interest in working on it anymore.<br/>This means, don't use it on your server - it won't end up nice.
+![page_header](https://user-images.githubusercontent.com/35925402/131202855-b125f74a-fcce-4da0-bcfc-388b46fb9980.png)
 
 # Seatbelts - An addon that adds Seatbelts to cars.
-You're maybe asking yourself, why do I need seatbelts in Garry's Mod?
-Imagine you have a SeriousRP server running. To make the RP more serious you want to make it as realistic as possible, right?
+You're maybe asking yourself, why do I need seatbelts in Garry's Mod?<br/>
+Imagine you have a SeriousRP server running. To make the RP more serious you want to make it as realistic as possible, right?<br/>
 That's why I created this. There are many addons available, but there is no addon adding seatbelts to the game (Or atleast at the time I'm writing).
+
+Here is a demonstration video: https://www.youtube.com/watch?v=hZWudQEHqnA
 
 
 ## FEATURES:
